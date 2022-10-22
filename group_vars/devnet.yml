@@ -1,0 +1,3 @@
+sui_version: 'devnet-0.12.2'
+config: https://github.com/MystenLabs/sui/sui-config/data/fullnode-template.yaml
+genesis: https://github.com/MystenLabs/sui-genesis/raw/main/devnet/genesis.blob
